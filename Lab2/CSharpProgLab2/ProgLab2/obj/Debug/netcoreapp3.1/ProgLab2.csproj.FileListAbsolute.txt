@@ -1,0 +1,12 @@
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/Lab2/ProgLab2/ProgLab2/bin/Debug/netcoreapp3.1/ProgLab2.deps.json
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/Lab2/ProgLab2/ProgLab2/bin/Debug/netcoreapp3.1/ProgLab2.runtimeconfig.json
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/Lab2/ProgLab2/ProgLab2/bin/Debug/netcoreapp3.1/ProgLab2.runtimeconfig.dev.json
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/Lab2/ProgLab2/ProgLab2/bin/Debug/netcoreapp3.1/ProgLab2.dll
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/Lab2/ProgLab2/ProgLab2/bin/Debug/netcoreapp3.1/ProgLab2.pdb
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/Lab2/ProgLab2/ProgLab2/obj/Debug/netcoreapp3.1/ProgLab2.csproj.AssemblyReference.cache
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/Lab2/ProgLab2/ProgLab2/obj/Debug/netcoreapp3.1/ProgLab2.AssemblyInfoInputs.cache
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/Lab2/ProgLab2/ProgLab2/obj/Debug/netcoreapp3.1/ProgLab2.AssemblyInfo.cs
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/Lab2/ProgLab2/ProgLab2/obj/Debug/netcoreapp3.1/ProgLab2.csproj.CoreCompileInputs.cache
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/Lab2/ProgLab2/ProgLab2/obj/Debug/netcoreapp3.1/ProgLab2.dll
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/Lab2/ProgLab2/ProgLab2/obj/Debug/netcoreapp3.1/ProgLab2.pdb
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/Lab2/ProgLab2/ProgLab2/obj/Debug/netcoreapp3.1/ProgLab2.genruntimeconfig.cache
