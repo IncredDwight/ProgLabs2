@@ -1,0 +1,12 @@
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/ProgLab5/ProgLab5/bin/Debug/netcoreapp3.1/ProgLab5.deps.json
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/ProgLab5/ProgLab5/bin/Debug/netcoreapp3.1/ProgLab5.runtimeconfig.json
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/ProgLab5/ProgLab5/bin/Debug/netcoreapp3.1/ProgLab5.runtimeconfig.dev.json
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/ProgLab5/ProgLab5/bin/Debug/netcoreapp3.1/ProgLab5.dll
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/ProgLab5/ProgLab5/bin/Debug/netcoreapp3.1/ProgLab5.pdb
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/ProgLab5/ProgLab5/obj/Debug/netcoreapp3.1/ProgLab5.csproj.AssemblyReference.cache
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/ProgLab5/ProgLab5/obj/Debug/netcoreapp3.1/ProgLab5.AssemblyInfoInputs.cache
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/ProgLab5/ProgLab5/obj/Debug/netcoreapp3.1/ProgLab5.AssemblyInfo.cs
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/ProgLab5/ProgLab5/obj/Debug/netcoreapp3.1/ProgLab5.csproj.CoreCompileInputs.cache
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/ProgLab5/ProgLab5/obj/Debug/netcoreapp3.1/ProgLab5.dll
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/ProgLab5/ProgLab5/obj/Debug/netcoreapp3.1/ProgLab5.pdb
+/Users/yaroslavvalchyshen/Desktop/Study/Labs/Programming/ProgLab5/ProgLab5/obj/Debug/netcoreapp3.1/ProgLab5.genruntimeconfig.cache
